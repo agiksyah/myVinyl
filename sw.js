@@ -10,7 +10,6 @@ var cacheFiles = [
 	'./assets/css/main.css',
 	'./assets/js/functions.js',
 	'./assets/js/jquery-2.1.1.min.js',
-	'./assets/songs/music.mp3',
 	'./app.js',
 	'./manifest.json'
 ]
