@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "my Vinyl",
+  "launch_path": "/index.html",
+  "description": "Play Vinyl",
+  "icons": {
+    "128": "./assets/img/touch/icon128.png"
+  },
+  "developer": {
+    "name": "Agik Syah",
+    "url": "https://www.codepolitan.com/coder/nocturnalgate"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "my Vinyl",
+      "description": "Play Vinyl"
+    }
+  }
+}
