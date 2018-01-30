@@ -24,7 +24,6 @@
 }],
 "start_url": "./index.html?homescreen=1",
 "display": "standalone",
-"orientation": "potrait",
 "background_color": "#000000",
 "theme_color": "#000000"
 }
