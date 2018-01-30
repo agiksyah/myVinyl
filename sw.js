@@ -6,7 +6,7 @@ var cacheFiles = [
 	'./index.html',
 	'./index.html?homescreen=1',
 	'./?homescreen=1',
-	'http://fonts.googleapis.com/css?family=Pacifico',
+	'https://fonts.googleapis.com/css?family=Pacifico',
 	'./assets/css/main.css',
 	'./assets/js/functions.js',
 	'./assets/js/jquery-2.1.1.min.js',
