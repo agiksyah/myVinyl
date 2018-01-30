@@ -5,4 +5,4 @@ Just click/touch the play button.
 
 Song : Cinta Matiku by Mantra ft. Keroncong Suropati
 
-<a href ="https://cdn.rawgit.com/agiksyah/myVinyl/6ac3558e/index.html">myVinyl</a>
+<a href ="https://cdn.rawgit.com/agiksyah/myVinyl/a25896eb/index.html">myVinyl</a>
